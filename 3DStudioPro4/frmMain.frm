@@ -177,7 +177,7 @@ Option Explicit
 'shadowmoy   : http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=59365&lngWId=1
 '-----------------------------------------------------------------------------------------------------
 '
-'08.11.2010 Erkan Þanlý (procam)
+'08.11.2010 Erkan ÃžanlÃ½ (procam)
 '_____________________________________________________________________________________________________
 
 'Dim cTimer      As New clsTiming
